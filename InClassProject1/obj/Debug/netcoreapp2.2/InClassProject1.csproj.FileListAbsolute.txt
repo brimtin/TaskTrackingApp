@@ -1,0 +1,11 @@
+C:\Users\brimt\OneDrive\Desktop\MSSA\ITSA220\CodeFiles\InClassProject1\InClassProject1\bin\Debug\netcoreapp2.2\InClassProject1.deps.json
+C:\Users\brimt\OneDrive\Desktop\MSSA\ITSA220\CodeFiles\InClassProject1\InClassProject1\bin\Debug\netcoreapp2.2\InClassProject1.runtimeconfig.json
+C:\Users\brimt\OneDrive\Desktop\MSSA\ITSA220\CodeFiles\InClassProject1\InClassProject1\bin\Debug\netcoreapp2.2\InClassProject1.runtimeconfig.dev.json
+C:\Users\brimt\OneDrive\Desktop\MSSA\ITSA220\CodeFiles\InClassProject1\InClassProject1\bin\Debug\netcoreapp2.2\InClassProject1.dll
+C:\Users\brimt\OneDrive\Desktop\MSSA\ITSA220\CodeFiles\InClassProject1\InClassProject1\bin\Debug\netcoreapp2.2\InClassProject1.pdb
+C:\Users\brimt\OneDrive\Desktop\MSSA\ITSA220\CodeFiles\InClassProject1\InClassProject1\obj\Debug\netcoreapp2.2\InClassProject1.csprojAssemblyReference.cache
+C:\Users\brimt\OneDrive\Desktop\MSSA\ITSA220\CodeFiles\InClassProject1\InClassProject1\obj\Debug\netcoreapp2.2\InClassProject1.csproj.CoreCompileInputs.cache
+C:\Users\brimt\OneDrive\Desktop\MSSA\ITSA220\CodeFiles\InClassProject1\InClassProject1\obj\Debug\netcoreapp2.2\InClassProject1.AssemblyInfoInputs.cache
+C:\Users\brimt\OneDrive\Desktop\MSSA\ITSA220\CodeFiles\InClassProject1\InClassProject1\obj\Debug\netcoreapp2.2\InClassProject1.AssemblyInfo.cs
+C:\Users\brimt\OneDrive\Desktop\MSSA\ITSA220\CodeFiles\InClassProject1\InClassProject1\obj\Debug\netcoreapp2.2\InClassProject1.dll
+C:\Users\brimt\OneDrive\Desktop\MSSA\ITSA220\CodeFiles\InClassProject1\InClassProject1\obj\Debug\netcoreapp2.2\InClassProject1.pdb

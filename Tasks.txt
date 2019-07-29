@@ -1,0 +1,22 @@
+Buy Grocery False
+Do Laundry False
+Finish HW True
+Wash Car False
+Shower True
+Cut grass True
+Cut grass False
+Change Oil False
+Buy Gas False
+Watch TV False
+Charge Phone True
+Clean Room False
+Workout False
+Set Alarm False
+Check Tires False
+Walk The Dog False
+Cook Dinner False
+Eat Dinner False
+Call Mom False
+Return Cds False
+Go Swim False
+Work on course Project False
